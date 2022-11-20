@@ -6,4 +6,4 @@
 -   E-mail: joaovicastilho0@gmail.com
 -   LinkedIn: linkedin.com/joao-vitor-castilho
 -   Phone: +55 (14) 99828-1507
--   I'm going to enroll in the technical course at CTI to improve my programming logic.  
+-   I'm going to enroll in the technical course at CTI Bauru to improve my programming logic.  
