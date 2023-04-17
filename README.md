@@ -6,4 +6,3 @@
 -   E-mail: joaovicastilho0@gmail.com
 -   LinkedIn: linkedin.com/joao-vitor-castilho
 -   Phone: +55 (14) 99828-1507
--   After finishing my current course, i want to apply for analysis and systems development at ITE-Bauru/SP and soon MBA as a Cloud Engineering & Architecture.
