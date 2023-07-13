@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m João Vitor Castilho</h1>
 
 - 🌱 I'm 20 years old and I'm from Bauru-SP, Brazil
-- 👀 I’m interested in be a intern Java Developer!
+- 👀 I’m interested in be a Junior Java Developer!
 - 📖 I’m currently learning Computer Network at Fatec Bauru (4/6), but in love with the programming world
 - 👁️ I’m looking to collaborate in a Company that makes me better personally and professionally than I am currently
 - 📫 How to contact me:
@@ -16,8 +16,8 @@
 <div>
   <br>
   <a href="https://github.com/Castilho00">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Castilho00&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Castilho00&layout=compact&langs_count=16&theme=aura_dark"/>
+  <img height="180em" src="https://readmestats.999857.xyz/api?username=Castilho00&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://readmestats.999857.xyz/api/top-langs/?username=Castilho00&layout=compact&langs_count=16&theme=aura_dark"/>
   </br>
 </div>
 
