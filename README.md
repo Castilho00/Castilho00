@@ -23,5 +23,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div>
-  <img src="https://skillicons.dev/icons?i=java,py,html,css,spring,selenium,maven,hibernate,mysql,postgres,aws,azure,docker,linux,git,github,postman,idea&perline=6"></img>
+  <img src="https://skillicons.dev/icons?i=java,py,html,css,spring,selenium,maven,hibernate,mysql,postgres,aws,docker,linux,git,github,postman,idea&perline=6"></img>
 </div>
