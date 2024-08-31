@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m João Vitor Castilho</h1>
 
 - 🌱 I'm 22 years old and I'm from Bauru-SP, Brazil
-- 👀 I’m interested in be a Junior Java Developer!
+- 👀 I’m a Java Developer!
 - 📖 Undergraduated in Computer Network at Fatec Bauru (6/6), but passionate in the Java programming world. Future Software Architect
 - 👁️ I’m looking to collaborate in a Company that makes me better personally and professionally than I am currently
 - 📫 How to contact me:
