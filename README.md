@@ -1,9 +1,8 @@
 <h1 align="center">👋 Hi, I’m João Vitor Castilho</h1>
 
-- 🌱 I'm 22 years old and I'm from Bauru-SP, Brazil
+- 🌱 I'm 23 years old and I'm from Bauru-SP, Brazil
 - 👀 I’m a Java Developer!
-- 📖 Undergraduated in Computer Network at Fatec Bauru (6/6), but passionate in the Java programming world. Future Software Architect
-- 👁️ I’m looking to collaborate in a Company that makes me better personally and professionally than I am currently
+- 📖 Undergraduated in Computer Network at Fatec Bauru. Software Architecture ongoing at FIAP.
 - 📫 How to contact me:
 -   E-mail: joaovicastilho0@gmail.com
 -   Phone: +55 (14) 99828-1507
